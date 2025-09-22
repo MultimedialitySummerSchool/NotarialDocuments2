@@ -81,19 +81,53 @@
             }
         },
         {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Ercole Bertolucci", 
-                    "Santi Ghetti", 
-                    "Pier Francesco Rossi", 
-                    "Francesco Corneli"
-                ]
-            }
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ercole Bertolucci"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Santi Ghetti"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pier Francesco Rossi"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Francesco Corneli"
+        ]
+      }
+    },
         },
         {
             "label": {
